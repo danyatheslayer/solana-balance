@@ -1,0 +1,12 @@
+# solana_rpc_url: https://mainnet.helius-rpc.com/
+wallets:
+  - NSeNsegABZxxJF2fEmCpGGXu2kK3yTWcMsgyTLb2puP
+  # - C6wUwqUHAeQYEgB9SV9s37B9gGiW2GeQ6c6DZ1d2qvhk
+  # - GKUj2sPTuELF71mgLVh494mFDH4Gq9ixdBEZ5PZPGUbC
+tokens:
+  - address: DezXAZ8z7PnrnRJjz3wXBoRgixCa6xjnB7YaB1pPB263
+    ticker: BONK
+  - address: J3NKxxXZcnNiMjKw9hYb2K4LUxgwB6t1FtPtQVsv3KFr
+    ticker: SPX6900
+  - address: Es9vMFrzaCERmJfrF4H2FYD4KCoNkY11McCe8BenwNYB
+    ticker: USDT
